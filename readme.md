@@ -5,7 +5,7 @@
 
 ## How to run
 
-`Change directory configuration on top of each python script before running it.`
+- Change directory configuration on top of each python script before running it.
 
 There's a python script inside both `my` and `tan` folders which compiles, execute and saves the output of the program in `res/output`.
 
